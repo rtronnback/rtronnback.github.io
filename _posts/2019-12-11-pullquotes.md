@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Interested  my latest work? Check out: Automatic large-scale political bias detection of news outlets
-categories: [News, Political Bias, ML]
+title:  Interested  my latest work? Check out - Automatic large-scale political bias detection of news outlets
+categories: [News, PoliticalBias, ML]
 excerpt: Political bias is an inescapable characteristic in news and media. We introduce a data-driven approach using Machine Learning to analyse it in a globally scalable way that accounts for more manifestations of bias, and with explanations for each classification to better help understand why a news outlet is labelled as either left- or right-leaning.
 ---
 
