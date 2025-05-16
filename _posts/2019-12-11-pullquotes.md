@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  Pullquotes
-categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+title:  Automatic large-scale political bias detection of news outlets
+categories: [News, Political Bias, ML]
+excerpt: Political bias is an inescapable characteristic in news and media. We introduce a data-driven approach using Machine Learning to analyse it in a globally scalable way that accounts for more manifestations of bias, and with explanations for each classification to better help understand why a news outlet is labelled as either left- or right-leaning.
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+Political bias is an inescapable characteristic in news and media reporting, and understanding what political biases people are exposed to when interacting with online news is of crucial import. However, quantifying political bias is problematic. To systematically study the political biases of online news, much of previous research has used human-labelled databases. Yet, these databases tend to be costly, and cover only a few thousand instances at most. Additionally, despite the wide recognition that bias can be expressed in a multitude of ways, many have only examined narrow expressions of bias. For example, most have focused on biased wording in news articles, but ignore bias expressed when an outlet avoids reporting on certain topics or events. In this article, we introduce a data-driven approach that uses machine learning techniques to analyse multiple forms of bias, and that can estimate the political leaning of hundreds of thousands of Web domains with high accuracy. Crucially, this approach also allows us to provide detailed explanations for why a news outlet is assigned a particular political bias. Our work thereby presents a scalable and comprehensive approach to studying political bias in news on a larger scale than ever before.
 
-Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
-
-Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
-
-A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+Github Repository: https://github.com/rtronnback/automatic_news_monitoring_with_GDELT 
