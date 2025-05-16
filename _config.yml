@@ -9,10 +9,10 @@ name: Ronja Rönnback
 author: Ronja Rönnback
 
 # Short bio or description (displayed in the header)
-description: # It is an online CV, we will see how far it goes.
+description: PhD in Algorithmic Monitoring
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/intellisys_profile.jpg # only on About page!
+avatar: /images/intellisys_profile.jpeg # only on About page!
 
 #
 # Flags below are optional
