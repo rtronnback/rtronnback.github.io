@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D** in Version Control Theory, GitHub University, 2028 (expected)
+* **Ph.D** in Algorithmic Monitoring of the World Wide Web, Tilburg University, 2028 (expected)
 * **Master** in Cognitive Science and Artificial Intelligence, Tilburg University, 2024
 * **Bachelor** in Cognitive Science and Artificial Intelligence, Tilburg University, 2019
 
