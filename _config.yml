@@ -23,7 +23,7 @@ repository               : "rtronnback/rtronnback.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Ronja Rönnback"
   pronouns         : # example: "she/her"  
   bio              : "PhD student researching how to study algorithms, with algorithms."
