@@ -13,21 +13,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
-* Master in Cognitive Science and Artificial Intelligence, Tilburg University, 2024
-* Bachelor in Cognitive Science and Artificial Intelligence, Tilburg University, 2019
+* **Ph.D** in Version Control Theory, GitHub University, 2028 (expected)
+* **Master** in Cognitive Science and Artificial Intelligence, Tilburg University, 2024
+* **Bachelor** in Cognitive Science and Artificial Intelligence, Tilburg University, 2019
 
 Work experience
 ======
-* Independent Research Advisor
+* **Independent Research Advisor**
   * European Commission, DG CNECT, 07/2023 – 01/2024
   * Providing research and advisory services regarding technical aspects of Artificial Intelligence systems, and how this may interact with the European Artificial Intelligence Act.
 
-* Blue Book Trainee in AI Policy
+* **Blue Book Trainee in AI Policy**
   * European Commission, DG CNECT, 10/2022 – 02/2023
   * Responsible for various research tasks concerning the standardization of AI regulatory requirements, emerging technologies such as Brain Computer Interfaces, and sustainability of AI.
 
-* Junior AI Specialist
+* **Junior AI Specialist**
   * Arcadis NL, 2019 - 2020
   * Duties included: Development of Computer Vision models for infrastructure tasks, such as road detection from satellite imagery, detection of animals for ecological purposes and technical solutions for municipalities.
   
