@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2025-05-12-automatic-large-scale-bias-detection-of-news
 excerpt: 'Political bias is an inescapable characteristic in news and media reporting, and understanding what political biases people are exposed to when interacting with online news is of crucial import. In this article, we introduce a data-driven approach that uses machine learning techniques to analyse multiple forms of bias, and that can estimate the political leaning of hundreds of thousands of Web domains with high accuracy.'
 date: 2025-105-012
-venue: 'Journal 1'
-paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321418)'
+venue: 'PLOS One'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321418'
 citation: 'Rönnback, R., Emmery, C., Brighton, H.  (2025). &quot;Automatic large-scale political bias detection of news outlets
 .&quot; <i>PLOS One</i>. 20(5).'
 ---
