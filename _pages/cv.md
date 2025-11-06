@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
+* Master in Cognitive Science and Artificial Intelligence, Tilburg University, 2024
+* Bachelor in Cognitive Science and Artificial Intelligence, Tilburg University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Independent Research Advisor
+  * European Commission, DG CNECT, 07/2023 – 01/2024
+  * Providing research and advisory services regarding technical aspects of Artificial Intelligence systems, and how this may interact with the European Artificial Intelligence Act.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Blue Book Trainee in AI Policy
+  * European Commission, DG CNECT, 10/2022 – 02/2023
+  * Responsible for various research tasks concerning the standardization of AI regulatory requirements, emerging technologies such as Brain Computer Interfaces, and sustainability of AI.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Junior AI Specialist
+  * Arcadis NL, 2019 - 2020
+  * Duties included: Development of Computer Vision models for infrastructure tasks, such as road detection from satellite imagery, detection of animals for ecological purposes and technical solutions for municipalities.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, SQL, C++
+* Machine Learning
+  * Pytorch & TensorFlow
+  * LLMs, Computer Vision
+* Data Science and Analysis
+  * Web Scraping, Visualization, Image Processing
 
 Publications
 ======
@@ -58,7 +55,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
