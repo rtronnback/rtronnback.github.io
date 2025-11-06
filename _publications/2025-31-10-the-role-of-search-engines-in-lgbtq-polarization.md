@@ -2,7 +2,7 @@
 title: "The Role of Search Engines in the Amplification and Suppression of LGBTIQ+ Polarization"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-31-the-role-of-search-engines-in-lgbtq-polarization
+permalink: /publication/2025-31-10-the-role-of-search-engines-in-lgbtq-polarization
 excerpt: 'Search engines are used and trusted by hundreds of millions of people every day. However, the algorithms used by search engines to index, filter, and rank web content are inherently biased, and will necessarily prefer some views and opinions at the expense of others. In this article, we examine how these algorithmic biases amplify and suppress polarizing content.'
 date: 2025-10-31
 venue: 'Pre-print'
