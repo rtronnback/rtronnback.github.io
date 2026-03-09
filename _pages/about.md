@@ -16,7 +16,6 @@ Interested in my latest publication? Read it here:
 {% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
 
 {% if latest_publication %}
-  <h3>Latest Publication</h3>
   {% assign post = latest_publication %}
   {% include archive-single.html %}
 {% else %}
