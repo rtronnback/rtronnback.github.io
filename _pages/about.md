@@ -11,4 +11,11 @@ redirect_from:
 
 I am a PhD student currently specializing in Algorithmic Monitoring of the World Wide Web. I have had the opportunity to work internationally in research, government, and business environments. Specialized in Machine Learning, Data Analysis, and Web Scraping, I have a keen interest in applying these digital skills to current societal challenges.
 
+Interested in my latest publication? Read it here:
 
+{% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
+
+{% if latest_publication %}
+  <h2>Latest Publication</h2>
+  {% include archive-single.html post=latest_publication %}
+{% endif %}
