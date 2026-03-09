@@ -13,21 +13,6 @@ I am a PhD student currently specializing in Algorithmic Monitoring of the World
 
 Interested in my latest publication? Read it here:
 
-<h3>Debug: Publications Count = {{ site.publications | size }}</h3>
-
-{% for pub in site.publications %}
-  <p>{{ pub.title }} - {{ pub.date }}</p>
-{% endfor %}
-
-{% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
-
-<h3>Debug: Latest Publication</h3>
-<p>Count: {{ site.publications | size }}</p>
-<p>Latest Title: {{ latest_publication.title }}</p>
-<p>Latest Date: {{ latest_publication.date }}</p>
-<p>Latest URL: {{ latest_publication.url }}</p>
-
-
 {% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
 
 {% if latest_publication %}
