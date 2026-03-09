@@ -19,10 +19,21 @@ Interested in my latest publication? Read it here:
   <p>{{ pub.title }} - {{ pub.date }}</p>
 {% endfor %}
 
+{% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
+
+<h3>Debug: Latest Publication</h3>
+<p>Count: {{ site.publications | size }}</p>
+<p>Latest Title: {{ latest_publication.title }}</p>
+<p>Latest Date: {{ latest_publication.date }}</p>
+<p>Latest URL: {{ latest_publication.url }}</p>
+
 
 {% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
 
 {% if latest_publication %}
   <h3>Latest Publication</h3>
-  {% include archive-single.html post=latest_publication %}
+  {% assign post = latest_publication %}
+  {% include archive-single.html %}
+{% else %}
+  <p><em>No publications listed yet.</em></p>
 {% endif %}
