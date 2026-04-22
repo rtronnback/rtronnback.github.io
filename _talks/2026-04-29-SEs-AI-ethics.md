@@ -1,7 +1,7 @@
 ---
 title: "Guest Lecture: Search engines, AI, and beyond"
 collection: talks
-type: "Talk"
+type: "Guest Lecture"
 permalink: /talks/2026-04-29-SEs-AI-ethics
 venue: "Tilburg University"
 date: 2026-04-29
