@@ -11,6 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # allows the workflow to push back to the repo
+
     steps:
     - uses: actions/checkout@v4
 
