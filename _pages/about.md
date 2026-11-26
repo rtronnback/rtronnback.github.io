@@ -13,11 +13,13 @@ I am a PhD student currently specializing in Algorithmic Monitoring of the World
 
 Interested in my latest publication? Read it here:
 
-{% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
-
-{% if latest_publication %}
-  {% assign post = latest_publication %}
-  {% include archive-single.html %}
-{% else %}
-  <p><em>No publications listed yet.</em></p>
-{% endif %}
+<div class="publication-indent">
+  {% assign latest_publication = site.publications | sort: 'date' | reverse | first %}
+  
+  {% if latest_publication %}
+    {% assign post = latest_publication %}
+    {% include archive-single.html %}
+  {% else %}
+    <p><em>No publications listed yet.</em></p>
+  {% endif %}
+</div>
