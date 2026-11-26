@@ -10,3 +10,5 @@ location: "Vienna, Austria"
 
 Conference talk for the European Digital Democracy Network (EDDY 2026), focusing on Tilburg Algorithm Observatory's latest publication: 
 Rönnback, R., Emmery, C., Šafář Postma, M., Milde, F., Charvát, J., & Brighton, H. (2025). The Role of Search Engines in the Amplification and Suppression of LGBTIQ+ Polarization. <i>ACM Transactions on the Web</i>.
+
+[Download the slides]({{ '/files/2026-09-23-EDDY_Vienna.pdf' | relative_url }})
