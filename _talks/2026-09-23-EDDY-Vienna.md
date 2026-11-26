@@ -1,9 +1,9 @@
 ---
 title: "Do search engines amplify or suppress LGBTQ+ polarization?"
 collection: talks
-type: "Guest Lecture"
+type: "Conferece"
 permalink: /talks/2026-09-23-EDDY-Vienna
-venue: "European Digital Democracy Network (EDDY 2026), WU Vienna"
+venue: "European Digital Democracy Network (EDDY 2026), WU"
 date: 2026-09-23
 location: "WU, Vienna, Austria"
 ---
