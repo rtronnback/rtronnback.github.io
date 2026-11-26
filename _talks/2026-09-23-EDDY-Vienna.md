@@ -5,7 +5,7 @@ type: "Guest Lecture"
 permalink: /talks/2026-09-23-EDDY-Vienna
 venue: "European Digital Democracy Network (EDDY 2026), WU Vienna"
 date: 2026-09-23
-location: "Vienna, Austria"
+location: "WU, Vienna, Austria"
 ---
 
 Conference talk for the European Digital Democracy Network (EDDY 2026), focusing on Tilburg Algorithm Observatory's latest publication: 
