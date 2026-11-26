@@ -2,7 +2,7 @@
 title: "Do search engines amplify or suppress LGBTQ+ polarization?"
 collection: talks
 type: "Conference"
-permalink: /talks/2026-04-29-SEs-AI-ethics
+permalink: /talks/2026-09-23-EDDY_Vienna
 venue: "European Digital Democracy Network (EDDY 2026), WU Vienna"
 date: 2026-09-23
 location: "Vienna, Austria"
